@@ -106,3 +106,10 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
      - [15_faces_regression_keras_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/15_faces_regression_keras_torch.ipynb)
    - Additional Excercise (caution this is mostly Tensorflow):
       - [08_gradcam_and_occlusion_keras_TENSORFLOW.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/08_gradcam_and_occlusion_keras_TENSORFLOW.ipynb)
+
+- Day 6
+  - Slides:
+      - [06_GenAI_and_more](https://github.com/tensorchiefs/dl_course_2025/blob/master/06_GenAI_and_more.pdf) 
+
+  - Exercises:
+      - [09_1DConv_sol.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/09_1DConv_sol.ipynb)
