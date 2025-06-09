@@ -117,4 +117,4 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
   - [07_ViT](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/07_ViT.pdf) 
   - Exercises:
       - [10_vit_explained.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_explained.ipynb)
-      - - [10_vit_feature_extraction.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_feature_extraction.ipynb)
+      - [10_vit_feature_extraction.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_feature_extraction.ipynb)
