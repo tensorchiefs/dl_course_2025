@@ -109,8 +109,12 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
 
 - Day 6
   - Slides:
-
-  - [06_GenAI_and_more](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/06_GenAI_and_more.pdf) 
-
+    - [06_GenAI_and_more](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/06_GenAI_and_more.pdf) 
   - Exercises:
       - [09_1DConv_sol.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/09_1DConv_sol.ipynb)
+- Day 6
+  - Slides:
+    - [07_ViT](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/07_ViT.pdf) 
+  - Exercises:
+      - [10_vit_explained.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_explained.ipynb)
+      - [10_vit_feature_extraction.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_feature_extraction.ipynb)
