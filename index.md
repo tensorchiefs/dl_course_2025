@@ -119,7 +119,7 @@ The course is split in 8 sessions, each 4 lectures long. Topics might be adapted
       - [10_vit_explained.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_explained.ipynb)
       - [10_vit_feature_extraction.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/10_vit_feature_extraction.ipynb)
 
-Day 8
+-Day 8
   - Slides:
     - [08_deep ensemble](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/08_ensemble.pdf) 
   - Exercises:
