@@ -123,3 +123,4 @@ Day 8
   - Slides:
     - [08_deep ensemble](https://github.com/tensorchiefs/dl_course_2025/blob/master/slides/08_ensemble.pdf) 
   - Exercises:
+    - [11_cifar10_ensemble_keras3_torch.ipynb](https://github.com/tensorchiefs/dl_course_2025/blob/master/notebooks/11_cifar10_ensemble_keras3_torch.ipynb)
